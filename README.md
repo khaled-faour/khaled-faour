@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1>My name is Khaled! I love Coding... </h1>
+<p>I'm a good and fast self learner</p>
 
 <!--
 **khaledfaour2/khaledfaour2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
